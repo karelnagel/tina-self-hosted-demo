@@ -1,7 +1,7 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Su ema on gei
+  - headline: Hello world
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -56,6 +56,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
